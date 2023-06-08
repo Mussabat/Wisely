@@ -8,6 +8,7 @@ dedicated to social and environmental responsibility, our app can help investors
 put their money.
 
 <h3> Goals : </h3>
+
 Our app's main objective is to encourage ethical investment practices in Bangladesh by linking
 potential investors with companies that fit the following requirements :
 
