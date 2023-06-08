@@ -1,6 +1,5 @@
-<h1>Wisely - An Ethical Investment App
+<h1>Wisely - An Ethical Investment App</h1>
 
-A new Flutter project.
 
 # Installation Instructions
 - Install Flutter: https://docs.flutter.dev/get-started/install
