@@ -1,16 +1,11 @@
-# green_bd
+<h1>Wisely - An Ethical Investment App
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Installation Instructions
+- Install Flutter: https://docs.flutter.dev/get-started/install
+- Run "flutter doctor" in your command line/terminal to check if your installation is correct. If not, re-check the above step.
+- Open the project folder. Inside it, run "flutter pub get" to install the dependencies.
+- In the same folder, run "flutter build apk --release" to build the APK file.
+- You will find the APK file in build/app/outputs/apk/release/app-release.apk
+- Install the APK file into an android phone with Android 11 or later, and done
